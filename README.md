@@ -26,3 +26,4 @@ npm install
 npm build
 npm run 
 ```
+ go to localhost:8080
